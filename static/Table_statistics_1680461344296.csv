@@ -1,0 +1,4 @@
+SchemaName,TableName,Inserts,Deletes,Updates,Ddls,AppliedInserts,AppliedDeletes,AppliedUpdates,AppliedDdls,FullLoadRows,FullLoadCondtnlChkFailedRows,FullLoadErrorRows,FullLoadReloaded,TableState,ScheduledForReload,ValidationPendingRecords,ValidationFailedRecords,ValidationSuspendedRecords,ValidationState
+dbo,Customer,0,0,0,0,0,0,0,0,25,0,0,false,Table completed,false,0,0,0,Validated
+dbo,Agents,0,0,0,0,0,0,0,0,12,0,0,false,Table completed,false,0,0,0,Validated
+dbo,Orders,0,0,0,0,0,0,0,0,34,0,0,false,Table completed,false,0,0,0,Validated
